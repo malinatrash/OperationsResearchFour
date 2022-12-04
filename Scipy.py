@@ -39,5 +39,5 @@ def doLinearProgTwo():
 
 # Вызов ЛП решений
 doLinearProgNull()
-doLinearProgOne()
 doLinearProgTwo()
+doLinearProgOne()
